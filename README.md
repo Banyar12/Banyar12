@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Banyar12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I’m Banyar(Horo)! 👋
 
-<!---
-Banyar12/Banyar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 ICT Student at Rangsit University
+💻 Aspiring Web Developer & Tech Enthusiast
+
+🛠️ Tech Stack
+	•	Frontend: HTML, CSS, JavaScript
+	•	Backend: PHP, Node.js, Express.js
+	•	Database: MySQL, MongoDB
+	•	Tools: Git, GitHub, XAMPP, Render
+
+🌱 Currently Learning
+	•	JavaScript & Node.js
+	•	Database design & queries
+	•	Responsive web design
