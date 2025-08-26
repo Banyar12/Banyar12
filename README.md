@@ -1,4 +1,4 @@
-Hi there, I’m Banyar(Horo)! 👋
+Hello there, I’m Banyar(Horo)! 👋
 
 🎓 ICT Student at Rangsit University
 💻 Aspiring Web Developer & Tech Enthusiast
@@ -10,6 +10,6 @@ Hi there, I’m Banyar(Horo)! 👋
 	•	Tools: Git, GitHub, XAMPP, Render
 
 🌱 Currently Learning
-	•	JavaScript & Node.js
+	•	JavaScript & Typescript & React & Next.js & Python
 	•	Database design & queries
 	•	Responsive web design
